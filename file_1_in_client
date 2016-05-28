@@ -1,3 +1,7 @@
 add 1st line add extra in server
 add 2nd line
+<<<<<<< HEAD
 add 3rd line add extra in client
+=======
+add 3rd line add extra in server
+>>>>>>> a8e60173273192be4974f47491bf1ef82a3022b3
